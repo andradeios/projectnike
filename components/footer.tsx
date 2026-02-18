@@ -19,9 +19,9 @@ export function Footer() {
             variant="outline"
             className="border-primary text-primary hover:bg-primary hover:text-primary-foreground bg-transparent"
           >
-            <a href="https://instagram.com/nikecheats" target="_blank" rel="noopener noreferrer">
+            <a href="https://instagram.com/dabocafnc" target="_blank" rel="noopener noreferrer">
               <Instagram className="mr-2 h-5 w-5" />
-              @nikecheats
+              @dabocafnc
             </a>
           </Button>
 

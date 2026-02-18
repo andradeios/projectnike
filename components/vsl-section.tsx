@@ -21,7 +21,7 @@ export function VslSection() {
 </h2>
 
 
-      <div className="max-w-4xl mx-auto aspect-video">
+      <div className="max-w-7xl mx-auto aspect-video">
    <video
     className="w-full h-full rounded-2xl shadow-2xl"
     autoPlay
@@ -30,7 +30,7 @@ export function VslSection() {
     controlsList="nofullscreen"
     playsInline
   >
-    <source src="/videos/vsl.mp4" type="video/mp4" />
+    <source src="/videos/vsl.MP4" type="video/MP4" />
   </video>
 
 </div>
