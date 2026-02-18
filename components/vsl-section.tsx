@@ -30,7 +30,7 @@ export function VslSection() {
     controlsList="nofullscreen"
     playsInline
   >
-    <source src="/videos/vsl.MP4" type="video/MP4" />
+    <source src="/videos/vsl.mp4" type="video/mp4" />
   </video>
 
 </div>
